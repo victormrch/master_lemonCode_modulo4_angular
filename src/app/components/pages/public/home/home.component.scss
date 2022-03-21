@@ -1,0 +1,16 @@
+.content {
+  min-height: calc(100vh - 82px - 132px - 40px);
+  background: url("../../../../../assets/img/space.png");
+}
+
+.heading {
+  width: max-content;
+  color: #ffe81f;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 200;
+  border-bottom: 1px solid #424242;
+}
+.logo {
+  width: 100%;
+}

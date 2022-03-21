@@ -1,0 +1,25 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  width: max-content;
+  margin: 0;
+  list-style: none;
+}
+
+li {
+  margin-right: 15px;
+  &:last-of-type {
+    margin-right: 0;
+  }
+}
+
+.selected {
+  background-color: #ffe81f;
+  color: black;
+}
+
+a {
+  &:hover {
+    background-color: #006d7f;
+  }
+}

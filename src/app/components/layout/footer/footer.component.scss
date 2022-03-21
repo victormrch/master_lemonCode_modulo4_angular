@@ -1,0 +1,16 @@
+.footer-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100px;
+  padding: 16px 50px;
+  color: #fff;
+  background: #000;
+  font: 400 14px/20px Roboto, "Helvetica Neue", sans-serif;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
